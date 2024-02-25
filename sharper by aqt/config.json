@@ -1,8 +1,7 @@
 {
-  "name": "sharp",
-  "author": "m_axic",
-  "description": "A sharp theme.",
-  "hideIconTitle": false,
+  "name": "sharper",
+  "author": "aqt",
+  "description": "Based on Sharp by m_axic, mini.os by nationalsoup",
   "hideLabels": { "icons": false, "hints": false },
   "batteryPercentage": {
     "visible": true,
